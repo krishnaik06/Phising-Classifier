@@ -6,7 +6,7 @@ colorhash==1.0.2
 configparser==4.0.2
 cycler==0.10.0
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-MonitoringDashboard==3.0.6
 imbalanced-learn==0.6.1
 imblearn==0.0
